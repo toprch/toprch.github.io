@@ -3,23 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>https://toprch.github.io/blog/start/</loc>
+      <loc>https://toprch.github.io/docs/blog/start/</loc>
       <lastmod>2018-12-23T13:23:15+01:00</lastmod>
     </url>
   
     <url>
-      <loc>https://toprch.github.io/about/</loc>
+      <loc>https://toprch.github.io/docs/about/</loc>
       <lastmod>2018-12-23T13:19:11+01:00</lastmod>
     </url>
   
     <url>
-      <loc>https://toprch.github.io/blog/</loc>
+      <loc>https://toprch.github.io/docs/blog/</loc>
       <lastmod>2018-12-23T13:23:15+01:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
-      <loc>https://toprch.github.io/</loc>
+      <loc>https://toprch.github.io/docs/</loc>
       <lastmod>2018-12-23T13:23:15+01:00</lastmod>
       <priority>0</priority>
     </url>

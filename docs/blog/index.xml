@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on toprch</title>
-    <link>https://toprch.github.io/blog/</link>
+    <link>https://toprch.github.io/docs/blog/</link>
     <description>Recent content in Blogs on toprch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 23 Dec 2018 13:23:15 +0100</lastBuildDate>
     
-	<atom:link href="https://toprch.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://toprch.github.io/docs/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Start</title>
-      <link>https://toprch.github.io/blog/start/</link>
+      <link>https://toprch.github.io/docs/blog/start/</link>
       <pubDate>Sun, 23 Dec 2018 13:23:15 +0100</pubDate>
       
-      <guid>https://toprch.github.io/blog/start/</guid>
+      <guid>https://toprch.github.io/docs/blog/start/</guid>
       <description>Nothing here yet.</description>
     </item>
     

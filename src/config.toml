@@ -1,5 +1,5 @@
 title = "toprch"
-baseURL = "https://toprch.github.io"
+baseURL = "https://toprch.github.io/docs/"
 tags = ["toprch"]
 languageCode = "en-US"
 config = "config.toml"
